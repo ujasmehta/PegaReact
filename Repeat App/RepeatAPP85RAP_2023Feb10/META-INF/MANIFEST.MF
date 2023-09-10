@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Operator: Admin.Repeat
+Pega-Codeset-Name: Customer
+ArtifactVersion: 01.01.01
+Pega-Archive-Type: ApplicationBundle
+ArtifactType: product
+Pega-Codeset-Version: 06-01-01
+ArtifactName: RepeatAppRAP
+Name: RepeatAppRAP
+Type: Product
+Synchronizable: false
+Product-Creation-Date: 2023-Feb-10 00:00:00
+Version: 01.01.01
+Engine-Version: 08-09-01
+Export-Date: 2023-Feb-09 14:02:20
+Instance-Count: 338
+Archive-Type: PegaArchive
+PRPC-Engine: 8.9.0 PRPC-8.9.0-dev-12758 (not_for_customer_distribution)
+
+Name: FileMetadata
+
